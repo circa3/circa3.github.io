@@ -1,0 +1,12 @@
+{
+    "name": "Count-Me-In",
+    "version": "0.0.1",
+    "description": "Collaborative Step Sequencer",
+    "dependencies": {
+        "cookie": "^0.4.2",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "socket.io": "^4.4.0",
+        "winston": "^3.5.0"
+    }
+}
